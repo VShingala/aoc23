@@ -93,3 +93,5 @@ const d = dfs(g, start[0] + ',' + start[1]);
 res = d.length / 2;
 
 console.log(res);
+
+// Part 2: To be done with flood fill algorithm.
